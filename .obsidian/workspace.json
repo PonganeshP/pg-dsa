@@ -4,77 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "537db72002780afe",
+        "id": "ba4a33dc08bd09cf",
         "type": "tabs",
         "children": [
           {
-            "id": "723e655abb9b9172",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DSA/Data Structures & Algorithms.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Data Structures & Algorithms"
-            }
-          },
-          {
-            "id": "2d1f2f2427a007d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DSA/Data Structures & Algorithms.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Data Structures & Algorithms"
-            }
-          },
-          {
-            "id": "4b144ddc900e7ec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NeetCode.Arrays&Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeetCode.Arrays&Hashing"
-            }
-          },
-          {
-            "id": "5468e33d1b7e4638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS.Coding/Arrays & Hashing/Encode and Decode Strings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encode and Decode Strings"
-            }
-          },
-          {
-            "id": "eec337e7718dee8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NeetCode.Arrays&Hashing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeetCode.Arrays&Hashing"
-            }
-          },
-          {
-            "id": "1f4a412e473176b6",
+            "id": "c3c1b0df88a44de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +21,7 @@
               "title": "NeetCode.Arrays&Hashing"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,18 +165,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f4a412e473176b6",
+  "active": "c3c1b0df88a44de7",
   "lastOpenFiles": [
-    "Longest Consecutive Sequence.md",
-    "NeetCode.Arrays&Hashing.md",
     "NeetCode.IO.md",
+    "DS.Coding/Arrays & Hashing/Top K Frequent Elements.md",
+    "DS.Coding/Min vs Max Heap.md",
+    "DS.Coding/Arrays & Hashing/Group Anagrams.md",
+    "DS.Coding/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "NeetCode.Arrays&Hashing.md",
+    "DS.Coding/Arrays & Hashing/Contains Duplicate.md",
+    "DS.Coding/HashMap/HashMap.Theory.md",
+    "DS.Coding/Arrays & Hashing/Valid Anagram.md",
     "Assets/Pasted image 20241031182455.png",
     "💡Plan.md",
     "PG.md",
-    "DS.Coding/Arrays & Hashing/Contains Duplicate.md",
-    "DS.Coding/Arrays & Hashing/Valid Anagram.md",
     "DS.Coding/Arrays & Hashing/Encode and Decode Strings.md",
-    "DS.Coding/Arrays & Hashing/Group Anagrams.md",
     "DS.Coding/String Builder.md",
     "DSA/Data Structures.md",
     "DSA/Data Structures & Algorithms.md",
@@ -251,19 +187,15 @@
     "DSA",
     "DS.Coding/Recursion.md",
     "Templates/logic.template.md",
-    "DS.Coding/Min vs Max Heap.md",
     "DS.Coding/Tree/Tree Traversal.md",
     "DS.Coding/Tree/Trees.md",
     "DS.Coding/Tree/Same Tree.md",
     "DS.Coding/Tree/Max Depth or Height of Binary tree.md",
-    "DS.Coding/HashMap/HashMap.Theory.md",
     "DS.Coding/HashSet/HashSet.Theory.md",
     "Excalidraw/TREE IMAGE.png",
     "Assets/Pasted image 20240927185740.png",
     "Things.Theme.md",
-    "DS.Coding/Arrays & Hashing/Top K Frequent Elements.md",
     "Claude Plan/Study Plan - Claude.md",
-    "Claude Plan/🥷🏼Kanban.NinjaDeveloper.md",
     "DS.Coding/HashMap",
     "DS.Coding/HashSet",
     "Templates",

@@ -20,7 +20,7 @@ public class Solution {
 
 ###### Time Complexity
 Average case: O(n)
-Worst case: O(n^2)
+Worst case: O(n^2) - ref [[HashMap.Theory]]
 ###### Space Complexity
 O(n)
 
