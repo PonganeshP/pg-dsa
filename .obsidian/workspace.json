@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS.Coding/Arrays & Hashing/Two Sum.md",
+                "file": "DS.Coding/Arrays & Hashing/Valid Sudoku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Sum"
+              "title": "Valid Sudoku"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "14a7c7ba5994c93b",
   "lastOpenFiles": [
-    "NeetCode.Arrays&Hashing.md",
     "DS.Coding/Arrays & Hashing/Two Sum.md",
-    "Valid Sudoku.md",
+    "NeetCode.Arrays&Hashing.md",
+    "DS.Coding/Arrays & Hashing/Valid Sudoku.md",
     "NeetCode.IO.md",
     "DS.Coding/Arrays & Hashing/Product of Array Except Self.md",
     "💡Plan.md",
